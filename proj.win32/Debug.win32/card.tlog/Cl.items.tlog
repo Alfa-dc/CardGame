@@ -1,0 +1,15 @@
+D:\Code\cocos_work\card\Classes\AppDelegate.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\AppDelegate.obj
+D:\Code\cocos_work\card\Classes\controllers\GameController.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\GameController.obj
+D:\Code\cocos_work\card\Classes\models\CardModel.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\CardModel.obj
+D:\Code\cocos_work\card\Classes\models\GameModel.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\GameModel.obj
+D:\Code\cocos_work\card\Classes\models\UndoModel.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\UndoModel.obj
+D:\Code\cocos_work\card\Classes\views\CardView.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\CardView.obj
+D:\Code\cocos_work\card\Classes\views\GameView.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\GameView.obj
+D:\Code\cocos_work\card\Classes\services\CardService.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\CardService.obj
+D:\Code\cocos_work\card\Classes\services\CommandService.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\CommandService.obj
+D:\Code\cocos_work\card\Classes\configs\models\LevelConfig.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\LevelConfig.obj
+D:\Code\cocos_work\card\Classes\configs\loaders\LevelConfigLoader.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\LevelConfigLoader.obj
+D:\Code\cocos_work\card\Classes\generators\GameModelFromLevelGenerator.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\GameModelFromLevelGenerator.obj
+D:\Code\cocos_work\card\Classes\utils\LogUtils.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\LogUtils.obj
+D:\Code\cocos_work\card\Classes\utils\FileUtils.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\FileUtils.obj
+D:\Code\cocos_work\card\proj.win32\main.cpp;D:\Code\cocos_work\card\proj.win32\Debug.win32\main.obj

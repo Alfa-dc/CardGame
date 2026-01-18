@@ -1,0 +1,17 @@
+D:\Code\cocos_work\card\cocos2d\external\recast\DebugUtils\DebugDraw.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DebugDraw.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DebugUtils\DetourDebugDraw.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourDebugDraw.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourCrowd\DetourCrowd.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourCrowd.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourCrowd\DetourLocalBoundary.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourLocalBoundary.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourObstacleAvoidance.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourCrowd\DetourPathCorridor.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathCorridor.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourCrowd\DetourPathQueue.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathQueue.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourCrowd\DetourProximityGrid.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourProximityGrid.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourTileCache\DetourTileCache.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCache.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\DetourTileCache\DetourTileCacheBuilder.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCacheBuilder.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\Detour\DetourAlloc.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourAlloc.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\Detour\DetourCommon.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourCommon.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\Detour\DetourNavMesh.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMesh.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\Detour\DetourNavMeshBuilder.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshBuilder.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\Detour\DetourNavMeshQuery.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshQuery.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\Detour\DetourNode.cpp;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\DetourNode.obj
+D:\Code\cocos_work\card\cocos2d\external\recast\fastlz\fastlz.c;D:\Code\cocos_work\card\cocos2d\external\recast\proj.win32\Debug.win32\fastlz.obj

@@ -1,0 +1,2 @@
+D:\Code\cocos_work\card\proj.win32\Debug.win32\card.exe
+D:\Code\cocos_work\mycard\proj.win32\Debug.win32\card.exe
