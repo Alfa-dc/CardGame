@@ -26,7 +26,7 @@ namespace configs {
 class CardConfig {
 public:
     // 卡牌花色枚举
-    enum class Suit {
+    enum class Suit {  
         HEART,      // 红心
         DIAMOND,    // 方块
         CLUB,       // 梅花

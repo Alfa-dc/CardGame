@@ -229,8 +229,8 @@ bool GameController::handleCardClick(views::CardView* cardView) {
 //
 // 功能说明：
 // 1. 检查是否点击的是当前顶手牌
-// 2. 播放替换动画
-// 3. 执行替换命令（记录到撤销历史）
+// 2. 执行替换命令（记录到撤销历史）
+// 3. 播放替换动画
 // 4. 更新UI
 void GameController::replaceTopHandCard(int clickedCardId) {
     // 获取当前顶手牌ID
@@ -241,11 +241,11 @@ void GameController::replaceTopHandCard(int clickedCardId) {
         return;
     }
     
-    // 播放替换动画（将点击的牌移到顶部，原顶手牌移到下面）
-    _gameView->playReplaceAnimation(clickedCardId, topCardId);
-    
     // 执行替换顶手牌命令（使用命令服务，支持撤销/重做）
     services::CommandService::getInstance()->executeReplaceTopCardCommand(clickedCardId, _gameModel);
+    
+    // 播放替换动画（将点击的牌移到顶部，原顶手牌移到下面）
+    _gameView->playReplaceAnimation(clickedCardId, topCardId);
     
     // 更新UI显示
     updateUI();

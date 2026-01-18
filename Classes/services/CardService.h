@@ -142,7 +142,6 @@ public:
     // - 显示点数名称
     std::string getRankString(int rank);
     
-private:
     // ========== 私有构造函数 ==========
     
     // 构造函数

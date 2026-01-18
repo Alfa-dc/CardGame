@@ -299,9 +299,9 @@ bool CardView::onTouchBegan(cocos2d::Touch* touch, cocos2d::Event* event) {
     // 获取卡牌中心点的屏幕坐标
     cocos2d::Vec2 cardCenter = this->getPosition();
     
-    // 设置点击范围大小（以卡牌大小的1.5倍为点击范围）
-    float clickRangeWidth = this->getContentSize().width * _scaleFactor * 0.5f;
-    float clickRangeHeight = this->getContentSize().height * _scaleFactor * 0.5f;
+    // 设置点击范围大小（以卡牌实际大小为点击范围，不放大）
+    float clickRangeWidth = this->getContentSize().width * _scaleFactor * 0.3f;
+    float clickRangeHeight = this->getContentSize().height * _scaleFactor * 0.3f;
     
     // 检查触摸点是否在以卡牌中心点为基础的方形范围内
     if (abs(location.x - cardCenter.x) <= clickRangeWidth && 
@@ -390,11 +390,11 @@ void CardView::moveToPosition(const cocos2d::Vec2& target, float duration, const
 // 使用场景：
 // - 用户点击卡牌时设置为选中状态
 // - 卡牌匹配成功后取消选中状态
-// void CardView::setSelected(bool selected) {
-//     // 设置缩放比例
-//     float scale = selected ? 1.2f : _scaleFactor;
-//     this->runAction(cocos2d::ScaleTo::create(0.1f, scale));//
-// }
+void CardView::setSelected(bool selected) {
+    // 设置缩放比例
+    float scale = selected ? 1.2f : _scaleFactor;
+    this->runAction(cocos2d::ScaleTo::create(0.1f, scale));
+}
 
 // 设置卡牌为顶手牌状态
 // 参数：isTop - true表示是顶手牌，false表示不是
